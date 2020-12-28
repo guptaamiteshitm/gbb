@@ -1,0 +1,20 @@
+before_script:
+  - apt-get update -qq
+  - apt-get install -qq git
+  # Setup SSH deploy keys
+  - 'which ssh-agent || ( apt-get install -qq openssh-client )'
+  - eval $(ssh-agent -s)
+  #- ssh-add <(echo "$SSH_PRIVATE_KEYpem")
+  - mkdir -p ~/.ssh
+  - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+  - chmod 400 /builds/logystixs/front/embark.tmp/SSH_PRIVATE_KEYpem
+
+deploy_staging:
+  type: deploy
+  environment:
+    name: staging
+    url: $sship
+  script:
+    - ssh -i $SSH_PRIVATE_KEYpem $sshUsername@$sship "cd /var/www/embark && git reset --hard HEAD && git pull origin master  &&  npm install && pm2 restart embark && exit"
+  only:
+    - master

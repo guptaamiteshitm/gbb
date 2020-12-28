@@ -1,0 +1,413 @@
+{
+  "110000": [
+    {
+      "province": "Andhra Pradesh",
+      "name": "Anantapur",
+      "id": "110100"
+    },
+    {
+      "province": "Andhra Pradesh",
+      "name": "Chittoor",
+      "id": "110200"
+    }
+  ],
+  "120000": [
+    {
+      "province": "Arunachal Pradesh",
+      "name": "Tawang",
+      "id": "120100"
+    },
+    {
+      "province": "Arunachal Pradesh",
+      "name": "West Kameng",
+      "id": "120200"
+    }
+  ],
+  "130000": [
+    {
+      "province": "Assam",
+      "name": "Baksa",
+      "id": "130100"
+    },
+    {
+      "province": "Assam",
+      "name": "Barpeta",
+      "id": "130200"
+    }
+  ],
+  "140000": [
+    {
+      "province": "Bihar",
+      "name": "Araria",
+      "id": "140100"
+    },
+    {
+      "province": "Bihar",
+      "name": "Aurangabad",
+      "id": "140200"
+    }
+  ],
+  "150000": [
+    {
+      "province": "Chandigarh (UT)",
+      "name": "Chandigarh",
+      "id": "150100"
+    }
+  ],
+  "210000": [
+    {
+      "province": "Chhattisgarh",
+      "name": "Bijapur",
+      "id": "210100"
+    },
+    {
+      "province": "Chhattisgarh",
+      "name": "Gariyaband",
+      "id": "210200"
+    }
+  ],
+  "220000": [
+    {
+      "province": "Dadra and Nagar Haveli (UT)",
+      "name": "Dadra & Nagar Haveli",
+      "id": "220100"
+    }
+  ],
+  "230000": [
+    {
+      "province": "Daman and Diu (UT)",
+      "name": "Daman",
+      "id": "230100"
+    },
+    {
+      "province": "Daman and Diu (UT)",
+      "name": "Diu",
+      "id": "230200"
+    }
+  ],
+
+  "310000": [
+    {
+      "province": "Delhi (NCT)",
+      "name": "Central Delhi",
+      "id": "310100"
+    },
+    {
+      "province": "Delhi (NCT)",
+      "name": "New Delhi",
+      "id": "310200"
+    }
+  ],
+  "320000": [
+    {
+      "province": "Goa",
+      "name": "North Goa",
+      "id": "320100"
+    },
+    {
+      "province": "Goa",
+      "name": "South Goa",
+      "id": "320200"
+    }
+  ],
+  "330000": [
+    {
+      "province": "Gujarat",
+      "name": "Ahmedabad",
+      "id": "330100"
+    },
+    {
+      "province": "Gujarat",
+      "name": "Rajkot",
+      "id": "330200"
+    }
+  ],
+  "340000": [
+    {
+      "province": "Haryana",
+      "name": "Ambala",
+      "id": "340100"
+    },
+    {
+      "province": "Haryana",
+      "name": "Bhiwani",
+      "id": "340200"
+    }
+  ],
+  "350000": [
+    {
+      "province": "Himachal Pradesh",
+      "name": "Bilaspur",
+      "id": "350100"
+    },
+    {
+      "province": "Himachal Pradesh",
+      "name": "Kullu",
+      "id": "350200"
+    }
+  ],
+  "360000": [
+    {
+      "province": "Jammu and Kashmir",
+      "name": "Anantnag",
+      "id": "360100"
+    },
+    {
+      "province": "Jammu and Kashmir",
+      "name": "Baramulla",
+      "id": "360200"
+    }
+  ],
+  "370000": [
+    {
+      "province": "Jharkhand",
+      "name": "Bokaro",
+      "id": "370100"
+    },
+    {
+      "province": "Jharkhand",
+      "name": "Hazaribag",
+      "id": "370200"
+    }
+  ],
+  "410000": [
+    {
+      "province": "Karnataka",
+      "name": "Bagalkot",
+      "id": "410100"
+    },
+    {
+      "province": "Karnataka",
+      "name": "Chamarajanagar",
+      "id": "410200"
+    }
+  ],
+  "420000": [
+    {
+      "province": "Kerala",
+      "name": "Alappuzha",
+      "id": "420100"
+    },
+    {
+      "province": "Kerala",
+      "name": "Alappuzha",
+      "id": "420200"
+    }
+  ],
+  "430000": [
+    {
+      "province": "Lakshadweep (UT)",
+      "name": "Agatti",
+      "id": "430100"
+    },
+    {
+      "province": "Lakshadweep (UT)",
+      "name": "Amini",
+      "id": "430200"
+    }
+  ],
+  "440000": [
+    {
+      "province": "Madhya Pradesh",
+      "name": "Indore",
+      "id": "440100"
+    },
+    {
+      "province": "Madhya Pradesh",
+      "name": "Gwalior",
+      "id": "440200"
+    }
+  ],
+  "450000": [
+    {
+      "province": "Maharashtra",
+      "name": "Ahmednagar",
+      "id": "450100"
+    },
+    {
+      "province": "Maharashtra",
+      "name": "Bhandara",
+      "id": "450200"
+    }
+  ],
+  "460000": [
+    {
+      "province": "Manipur",
+      "name": "Bishnupur",
+      "id": "460100"
+    },
+    {
+      "province": "Manipur",
+      "name": "Kakching",
+      "id": "460200"
+    }
+  ],
+  "500000": [
+    {
+      "province": "Meghalaya",
+      "name": "East Garo Hills",
+      "id": "500100"
+    },
+    {
+      "province": "Meghalaya",
+      "name": "North Garo Hills",
+      "id": "500200"
+    }
+  ],
+  "510000": [
+    {
+      "province": "Mizoram",
+      "name": "Aizawl",
+      "id": "510100"
+    },
+    {
+      "province": "Mizoram",
+      "name": "Kolasib",
+      "id": "510300"
+    }
+  ],
+  "520000": [
+    {
+      "province": "Nagaland",
+      "name": "Dimapur",
+      "id": "520100"
+    },
+    {
+      "province": "Nagaland",
+      "name": "Longleng",
+      "id": "520200"
+    }
+  ],
+  "530000": [
+    {
+      "province": "Odisha",
+      "name": "Balangir",
+      "id": "530100"
+    },
+    {
+      "province": "Odisha",
+      "name": "Dhenkanal",
+      "id": "530300"
+    }
+  ],
+  "540000": [
+    {
+      "province": "Puducherry (UT)",
+      "name": "Mahe",
+      "id": "540100"
+    },
+    {
+      "province": "Puducherry (UT)",
+      "name": "Yanam",
+      "id": "540200"
+    }
+  ],
+  "610000": [
+    {
+      "province": "Punjab",
+      "name": "Barnala",
+      "id": "610100"
+    },
+    {
+      "province": "Punjab",
+      "name": "Amritsar",
+      "id": "610200"
+    }
+  ],
+  "620000": [
+    {
+      "province": "Rajasthan",
+      "name": "Ajmer",
+      "id": "620100"
+    },
+    {
+      "province": "Rajasthan",
+      "name": "Barmer",
+      "id": "620200"
+    }
+  ],
+  "630000": [
+    {
+      "province": "Sikkim",
+      "name": "East Sikkim",
+      "id": "630100"
+    },
+    {
+      "province": "Sikkim",
+      "name": "North  Sikkim",
+      "id": "630200"
+    }
+  ],
+  "640000": [
+    {
+      "province": "Tamil Nadu",
+      "name": "Ariyalur",
+      "id": "640100"
+    },
+    {
+      "province": "Tamil Nadu",
+      "name": "Cuddalore",
+      "id": "640200"
+    }
+  ],
+  "650000": [
+    {
+      "province": "Telangana",
+      "name": "Adilabad",
+      "id": "650100"
+    },
+    {
+      "province": "Telangana",
+      "name": "Jagtial",
+      "id": "650200"
+    }
+  ],
+  "710000": [
+    {
+      "province": "Tripura",
+      "name": "Dhalai",
+      "id": "710100"
+    },
+    {
+      "province": "Tripura",
+      "name": "Khowai",
+      "id": "710200"
+    }
+  ],
+  "810000": [
+    {
+      "province": "Uttarakhand",
+      "name": "Almora",
+      "id": "810100"
+    },
+    {
+      "province": "Uttarakhand",
+      "name": "Bageshwar",
+      "id": "810200"
+    }
+  ],
+  "820000": [
+    {
+      "province": "Uttar Pradesh",
+      "name": "Agra",
+      "id": "820100"
+    },
+    {
+      "province": "Uttar Pradesh",
+      "name": "Aligarh",
+      "id": "820200"
+    }
+  ],
+  "830000": [
+    {
+      "province": "West Bengal",
+      "name": "Alipurduar",
+      "id": "830100"
+    },
+    {
+      "province": "West Bengal",
+      "name": "Birbhum",
+      "id": "830200"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+export default {
+  'validate.email.error': 'Should be a valid Email',
+  'validate.required': 'is Required',
+  'submit.add.success': 'Added successfully',
+  'submit.add.error': 'Adding failed, please try again!',
+  'validate.placeholder': 'Please enter ',
+  'validate.placeholder.select': 'Please select',
+  'validate.operation': 'Operation',
+  'validate.newButton': 'New',
+  'validate.message': 'please enter',
+  'validate.password': 'password!',
+  'validate.user': 'Username!',
+  'validate.phone': 'phone number!',
+  'validate.placeholder.captcha': 'Captcha',
+  'validate.varificationCode': 'verification code!',
+  'validate.placeHolder': 'Please Select Assets',
+  'validate.error': 'Data Fetch failed, Will try again!',
+};

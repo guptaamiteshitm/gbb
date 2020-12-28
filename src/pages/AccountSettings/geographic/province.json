@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "id": "110000"
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "id": "120000"
+  },
+  {
+    "name": "Assam",
+    "id": "130000"
+  },
+  {
+    "name": "Bihar",
+    "id": "140000"
+  },
+  {
+    "name": "Chandigarh (UT)",
+    "id": "150000"
+  },
+  {
+    "name": "Chhattisgarh",
+    "id": "210000"
+  },
+  {
+    "name": "Dadra and Nagar Haveli (UT)",
+    "id": "220000"
+  },
+  {
+    "name": "Daman and Diu (UT)",
+    "id": "230000"
+  },
+  {
+    "name": "Delhi (NCT)",
+    "id": "310000"
+  },
+  {
+    "name": "Goa",
+    "id": "320000"
+  },
+  {
+    "name": "Gujarat",
+    "id": "330000"
+  },
+  {
+    "name": "Haryana",
+    "id": "340000"
+  },
+  {
+    "name": "Himachal Pradesh",
+    "id": "350000"
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "id": "360000"
+  },
+  {
+    "name": "Jharkhand",
+    "id": "370000"
+  },
+  {
+    "name": "Karnataka",
+    "id": "410000"
+  },
+  {
+    "name": "Kerala",
+    "id": "420000"
+  },
+  {
+    "name": "Lakshadweep (UT)",
+    "id": "430000"
+  },
+  {
+    "name": "Madhya Pradesh",
+    "id": "440000"
+  },
+  {
+    "name": "Maharashtra",
+    "id": "450000"
+  },
+  {
+    "name": "Manipur",
+    "id": "460000"
+  },
+  {
+    "name": "Meghalaya",
+    "id": "500000"
+  },
+  {
+    "name": "Mizoram",
+    "id": "510000"
+  },
+  {
+    "name": "Nagaland",
+    "id": "520000"
+  },
+  {
+    "name": "Odisha",
+    "id": "530000"
+  },
+  {
+    "name": "Puducherry (UT)",
+    "id": "540000"
+  },
+  {
+    "name": "Punjab",
+    "id": "610000"
+  },
+  {
+    "name": "Rajasthan",
+    "id": "620000"
+  },
+  {
+    "name": "Sikkim",
+    "id": "630000"
+  },
+  {
+    "name": "Tamil Nadu",
+    "id": "640000"
+  },
+  {
+    "name": "Telangana",
+    "id": "650000"
+  },
+  {
+    "name": "Tripura",
+    "id": "710000"
+  },
+  {
+    "name": "Uttarakhand",
+    "id": "810000"
+  },
+  {
+    "name": "Uttar Pradesh",
+    "id": "820000"
+  },
+  {
+    "name": "West Bengal",
+    "id": "830000"
+  }
+]
